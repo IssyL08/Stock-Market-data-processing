@@ -1,3 +1,1 @@
-# VBA-Challenge_IL
-VBA Challenge Homework
-added as new repository for homework
+Processing stock market data using VBA and Excel files
